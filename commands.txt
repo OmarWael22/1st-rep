@@ -1,0 +1,6 @@
+git add  file.format 
+git add*  //add all files
+git status 
+git commit -m" any comment"
+
+ 
