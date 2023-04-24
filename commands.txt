@@ -4,4 +4,5 @@ git status
 git commit -m" any comment"
 git push RemoteRepo branch
 git remote||branch -v   // to get repo and branch name
+git pull remoteRepoNAME
  
