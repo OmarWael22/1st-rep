@@ -1,9 +1,16 @@
 git clone URL of repo
-git add  file.format 
+
+git add  file.format
+ 
 git add*  //add all files
-git status 
+
+git status
+ 
 git commit -m" any comment"
+
 git push RemoteRepo branch
+
 git remote||branch -v   // to get repo and branch name
+
 git pull remoteRepoNAME
  
