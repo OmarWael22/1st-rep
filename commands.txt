@@ -1,3 +1,4 @@
+git clone URL of repo
 git add  file.format 
 git add*  //add all files
 git status 
