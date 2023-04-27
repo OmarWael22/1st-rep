@@ -14,4 +14,4 @@ git remote||branch -v   // to get repo and branch name
 
 git pull remoteRepoNAME
 
-git reser Filename   // remove added file before commit 
+git reset Filename   // remove added file before commit 
