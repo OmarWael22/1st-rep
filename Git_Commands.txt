@@ -13,4 +13,5 @@ git push RemoteRepo branch
 git remote||branch -v   // to get repo and branch name
 
 git pull remoteRepoNAME
- 
+
+git reset Filename   // remove added file before commit 
