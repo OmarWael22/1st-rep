@@ -1,0 +1,22 @@
+
+cd --> change directory
+
+pwd --> print working directory 
+
+mkdir 
+
+cd .. one back in current path
+
+ls
+
+touch -> create a file
+ 
+man 'any command' -> open documentation
+
+cp src des
+ 
+mv src des
+
+rm  -> remove file
+ 
+rmdir 'dirName'  // directory must be empty to be removed
